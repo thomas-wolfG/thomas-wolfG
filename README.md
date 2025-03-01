@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=thomas-wolfG&show_icons=true&theme=tokyonight)
+
 ## Willkommen auf meinem GitHub-Profil =)
 
 Hi. Mein Name ist Thomas Wolf und ich bin *Noch*-**Rookie**. 
